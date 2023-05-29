@@ -8,6 +8,8 @@ Please read these Terms of Service carefully before using our Products.
 
 By using our Products, You agree to comply with these Terms of Service.
 
+For the sake of simplicity, this document can also be referred to as "End User License Agreement".
+
 ## 1. Customer Account
 
 **1.1** You must be of (or above) the minimum age permitted by both Roblox and Discord to use our Products.
