@@ -8,7 +8,7 @@ Please read these Terms of Service carefully before using our Products.
 
 By using our Products, You agree to comply with these Terms of Service.
 
-For the sake of simplicity, this document can also be referred to as "End User License Agreement".
+This document may also be referred to as "End User License Agreement" throughout our Products.
 
 ## 1. Customer Account
 
