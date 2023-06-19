@@ -8,7 +8,7 @@ Please read these Terms of Service carefully before using Products.
 
 By using Products, You agree to comply with these Terms of Service.
 
-This document may also be referred to as "End User License Agreement" throughout our Products.
+This document may also be referred to as "End User License Agreement" throughout Products.
 
 ## 1. Customer Account
 
@@ -30,7 +30,7 @@ This document may also be referred to as "End User License Agreement" throughout
 
 **2.6** You may not use Products to do anything that could interfere with or disrupt Products, and/or Us.
 
-**2.7** You are permitted to make non-disruptive modifications to our Products.
+**2.7** You are permitted to make non-disruptive modifications to Products hosted by and licensed to You.
 
 ## 3. Termination of Customer Access to Products
 
