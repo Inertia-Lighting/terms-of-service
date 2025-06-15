@@ -1,6 +1,6 @@
 # Inertia Lighting | Terms of Service
 
-[toc]
+## Contents
 
 Our products and services ("Products") are provided to you ("You", "Customer") by Inertia Lighting ("Us", "Company").
 
